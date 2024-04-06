@@ -1,3 +1,24 @@
 [submodule "lazy/lazy.nvim"]
 	path = lazy/lazy.nvim
 	url = https://github.com/folke/lazy.nvim.git
+[submodule "lazy/vim-fugitive"]
+	path = lazy/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "lazy/harpoon"]
+	path = lazy/harpoon
+	url = https://github.com/theprimeagen/harpoon.git
+[submodule "lazy/nvim-treesitter"]
+	path = lazy/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
+[submodule "lazy/telescope.nvim"]
+	path = lazy/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim.git
+[submodule "lazy/plenary.nvim"]
+	path = lazy/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim.git
+[submodule "lazy/undotree"]
+	path = lazy/undotree
+	url = https://github.com/mbbill/undotree.git
+[submodule "lazy/vim-nightfly-guicolors"]
+	path = lazy/vim-nightfly-guicolors
+	url = https://github.com/bluz71/vim-nightfly-guicolors.git
